@@ -1,0 +1,4 @@
+Clay loves Mary.
+Mary loves Clay.
+Clay loves Mary today.
+Mary loves Paul today.
